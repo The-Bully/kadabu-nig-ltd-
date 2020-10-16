@@ -27,6 +27,9 @@ ul{
     margin-top: 10px;
     margin-bottom: 10px;
 }
+.top{
+    color: white;
+}
 
 header{
     background:#35424a;
@@ -107,7 +110,7 @@ header a hover{
 #boxes .box{
     float: left;
     width: 30%;
-    padding: 10px;
+    padding: 17px;
     text-align: center;
 }
 
