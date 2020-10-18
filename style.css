@@ -75,8 +75,8 @@ header a hover{
 }
 
 #showcase{
-    height: 500px;
     width: 100%;
+    height: 86vh;
     background: url('img-20201012-wa0012.jpg') no-repeat 0 -400px;
     text-align: center;
 }
